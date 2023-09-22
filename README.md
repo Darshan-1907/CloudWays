@@ -1,4 +1,7 @@
 # CloudWays
+Tech-Stack: HTML, CSS, JS
+used tools: sublime text, visual studio.
+
 CloudWays is the full website it shows content and information about the Cloud Cmputing.
 there are various sections 
 1. basic of cloud computing
